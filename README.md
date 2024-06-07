@@ -4,7 +4,7 @@ O gráfico mostra a distribuição de área por classes de uso da terra e vigor 
 
 O gráfico foi elaborado a partir da análise de transições pixel a pixel das imagens de satélite do Mapbiomas, considerando os pixels que possuem intersecção com os polígonos da análise.  A área apresentada no gráfico já considera apenas as parcelas dos pixels que se encontram dentro dos limites dos polígonos.
 
-sankey_diagram.html
+Pode vizualizar o grafico com este [link](https://climatepolicydata.github.io/Transicoes-de-uso-da-terra-dos-poligonos-do-ABC-Recuperacao/sankey_diagram.html)
 
 Fonte: CPI/PUC-Rio com dados do Sicor/BCB e Mapbiomas, 2024.
 Nota: A categoria "Agricultura e mosaico de usos" agrega diferentes tipos de lavoura, florestas plantadas e áreas de mosaico agricultura-pecuária, que não são distinguíveis entre lavoura e pastagem. A categoria "Vegetação nativa" incorpora formações florestais e não florestais naturais. Transições envolvendo áreas não vegetadas e corpos d'água são muito pequenas e, por isso, não são mostradas no gráfico.
