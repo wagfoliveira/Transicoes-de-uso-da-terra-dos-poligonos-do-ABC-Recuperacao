@@ -1,4 +1,4 @@
-#Transições de uso da terra dos polígonos do ABC+ Recuperação
+# Transições de uso da terra dos polígonos do ABC+ Recuperação
 
 O gráfico mostra a distribuição de área por classes de uso da terra e vigor de pastagens dos polígonos que tomaram crédito ABC+ Recuperação no Cerrado entre 2016 e 2018. O lado esquerdo do gráfico mostra o estado do uso da terra um ano antes da liberação do crédito, enquanto que o lado direito mostra o que ocorreu quatro anos após a tomada do crédito. 
 
